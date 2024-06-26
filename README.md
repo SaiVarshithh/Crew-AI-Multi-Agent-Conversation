@@ -17,13 +17,13 @@ ConversationAI is a Python-based application that simulates conversations betwee
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/saivarshithh/LLM Agents using CrewAI.git
+git clone https://github.com/SaiVarshithh/Crew-AI-Multi-Agent-Conversation.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd LLM Agents
+cd Crew-AI-Multi-Agent-Conversation
 ```
 
 3. Install the required dependencies:
