@@ -1,0 +1,8 @@
+crewai
+langchain_google_genai
+pandas
+numpy
+dotenv 
+crewai_tools
+black
+flake8
